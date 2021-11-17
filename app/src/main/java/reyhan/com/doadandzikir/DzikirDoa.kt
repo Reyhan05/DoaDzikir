@@ -1,0 +1,8 @@
+package reyhan.com.doadandzikir
+
+class DzikirDoa(
+    val desc: String,
+    val lafaz: String,
+    val terjemah: String
+)
+
